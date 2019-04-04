@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/GetSetClientText/Default.aspx) (VB: [Default.aspx.vb](./VB/GetSetClientText/Default.aspx.vb))
+* [Default.aspx](./CS/GetSetClientText/Default.aspx) (VB: [Default.aspx](./VB/GetSetClientText/Default.aspx))
 * [Default.aspx.cs](./CS/GetSetClientText/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/GetSetClientText/Default.aspx.vb))
 <!-- default file list end -->
 # How to get or set text of an ASPxEditor control on the client side
