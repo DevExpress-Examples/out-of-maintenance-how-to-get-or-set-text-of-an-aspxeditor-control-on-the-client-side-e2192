@@ -32,7 +32,7 @@ Namespace GetSetClientText
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' txtYourName control.
@@ -41,7 +41,7 @@ Namespace GetSetClientText
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected txtYourName As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+		Protected txtYourName As Global.DevExpress.Web.ASPxTextBox
 
 		''' <summary>
 		''' lblGreeting control.
@@ -50,6 +50,6 @@ Namespace GetSetClientText
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected lblGreeting As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected lblGreeting As Global.DevExpress.Web.ASPxLabel
 	End Class
 End Namespace

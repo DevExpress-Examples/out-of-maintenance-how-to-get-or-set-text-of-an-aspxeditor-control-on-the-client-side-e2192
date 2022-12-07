@@ -29,7 +29,7 @@ namespace GetSetClientText {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel ASPxLabel1;
+        protected global::DevExpress.Web.ASPxLabel ASPxLabel1;
         
         /// <summary>
         /// txtYourName control.
@@ -38,7 +38,7 @@ namespace GetSetClientText {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txtYourName;
+        protected global::DevExpress.Web.ASPxTextBox txtYourName;
         
         /// <summary>
         /// lblGreeting control.
@@ -47,6 +47,6 @@ namespace GetSetClientText {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblGreeting;
+        protected global::DevExpress.Web.ASPxLabel lblGreeting;
     }
 }
